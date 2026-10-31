@@ -132,3 +132,6 @@ Slicers on every page: Store Location, Category, Country, Rating.
 1. Open `Movie_Rental_analysis.pbix` in Power BI Desktop and use the page tabs and slicers.
 2. Open `Movie_rental_analysis_EDA.xlsx` and start from the *Summary* sheet; each question has its own sheet with the SQL query and results.
 3. To rerun the SQL, load the Sakila database into PostgreSQL and create the `v_rental_fact` view first.
+
+## Project Walkthrough
+Watch the video explanation of this project: [Movie Rental Analysis Video Explanation](https://drive.google.com/file/d/1CUCf0GSc_K_IOUiQwhKfq327GQF4Rxrb/view?usp=drive_link)
